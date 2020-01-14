@@ -10,7 +10,7 @@ usage: image-resize [-h] (--width pix | --height pix) [--up] imagefile
 
 Resize image file.
 
-positional arguments:
+positional arguments:  
   imagefile             image file name
 
 optional arguments:
