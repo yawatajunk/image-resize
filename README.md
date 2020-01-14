@@ -13,7 +13,7 @@ Resize image file.
 positional arguments:  
   imagefile             image file name
 
-optional arguments:
+optional arguments:  
   -h, --help            show this help message and exit  
   --width pix, -w pix   witdh(pixel)  
   --height pix, -H pix  height(pixel)  
