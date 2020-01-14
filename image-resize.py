@@ -84,7 +84,7 @@ if __name__ == '__main__':
     import argparse as ap
 
     parser = ap.ArgumentParser(
-        prog='image-resize', description='Resize image file.')
+        prog='image-resize', description='Change size of an image file.')
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('--width', '-w', metavar='pix',
                        type=int, help='witdh(pixel)')
