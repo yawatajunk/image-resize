@@ -15,7 +15,7 @@ positional arguments:
 
 optional arguments:  
   -h, --help            show this help message and exit  
-  --width pix, -w pix   witdh(pixel)  
+  --width pix, -w pix   width(pixel)  
   --height pix, -H pix  height(pixel)  
   --up, -u              accept scale up  
   
